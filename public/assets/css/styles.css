@@ -76,3 +76,7 @@ body {
   padding: 20px;
   cursor: pointer;
 }
+
+#pageTitle {
+  font-size: 40px;
+}
